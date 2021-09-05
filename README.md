@@ -1,2 +1,7 @@
 # Smart_Vault
-Smart Vault - Vegetable Storage System
+
+![Smart Vault](docs/SV.jpg)
+
+> Smart Vault - Vegetable Storage System built with Arduino and Blynk IOT platform.
+
+
